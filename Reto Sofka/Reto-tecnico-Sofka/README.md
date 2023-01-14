@@ -14,3 +14,6 @@ Acontinuacion se dispondra de un paso a paso para uso del proyecto:
 3) Se encontrar dos carpetas llamadas "main" que contiene el ejecutable con nombre "Menu" y "naves" la cual contiene las clases que sera usadas por la aplicación.
 4) Dependiendo de el IDE usada, podra ser ejecutado con la función "play" o con el simbolo "►".
 
+Test Java
+
+Para realizar Test es necesario acceder en la carpeta Test y puede reproducirse con la función "play" o con el simbolo "►".
